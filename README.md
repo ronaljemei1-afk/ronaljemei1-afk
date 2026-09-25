@@ -1,4 +1,4 @@
-# Ronald James
+# Ronal Jemei
 
 Computer Science student at Pellissippi State Community College with a strong professional leadership experience at Amazon and a growing technical focus in software engineering, cloud computing, cybersecurity, and systems.
 
