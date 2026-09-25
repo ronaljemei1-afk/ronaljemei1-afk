@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ronald James
 
-<!--
-**ronaljemei1-afk/ronaljemei1-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Pellissippi State Community College with a strong professional leadership experience at Amazon and a growing technical focus in software engineering, cloud computing, cybersecurity, and systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science at Pellissippi State Community College
+- 💼 Amazon L3 Process Assistant with experience in operations, problem solving, leadership, and technical process improvement
+- 🔐 Completed the Google Cybersecurity Professional Certificate
+- ☁️ Currently building AWS and cloud fundamentals
+- 💻 Developing stronger programming foundations in C++ while expanding practical experience with Linux, Python, SQL, and JavaScript
+- 🛠️ Interested in building high-quality projects across software, cloud, cybersecurity, networking, and systems
+- 🛠️ Building high-quality projects across software, cloud, cybersecurity, networking, and systems
+- 🎯 Seeking software, cloud, cybersecurity, systems, and related technical internship opportunities
+
+## Current Focus
+
+- C++ and computer science fundamentals
+- AWS cloud architecture and hands-on labs
+- Linux and command-line workflows
+- Cybersecurity and secure system design
+- Building portfolio projects that solve real problems
+
+## Career Goal
+
+I am building toward a strong technical career by combining computer science fundamentals, hands-on projects, cloud skills, cybersecurity knowledge, and real-world leadership experience.
+
+---
+
+More projects and technical work will be added as I build and document them.
