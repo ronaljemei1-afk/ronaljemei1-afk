@@ -9,7 +9,6 @@ Computer Science student at Pellissippi State Community College with a strong pr
 - 🔐 Completed the Google Cybersecurity Professional Certificate
 - ☁️ Currently building AWS and cloud fundamentals
 - 💻 Developing stronger programming foundations in C++ while expanding practical experience with Linux, Python, SQL, and JavaScript
-- 🛠️ Interested in building high-quality projects across software, cloud, cybersecurity, networking, and systems
 - 🛠️ Building high-quality projects across software, cloud, cybersecurity, networking, and systems
 - 🎯 Seeking software, cloud, cybersecurity, systems, and related technical internship opportunities
 
